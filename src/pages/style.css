@@ -1,0 +1,63 @@
+#contenido{
+    height: 400px;
+}
+
+#btnSubmit{
+    margin-top:40px;
+}
+
+.formSearch {
+    display: flex;
+    align-items: center;
+
+}
+
+.txtSearch {
+    margin-right: 5px;
+}
+
+.btnSearch {
+    width: 90px;
+}
+
+
+/*formularios */
+
+#userForm{
+    position: relative;
+    top:50px;
+    left:300px;
+    width: 500px;
+    padding:20px;
+    border:0.5px solid black;
+    border-radius:5px;
+}
+
+#btnSubmit{
+    background-color:black;
+    color: white;
+    font-size: large;
+}
+
+.btn{
+    background-color:black;
+    color: white;
+    font-size: large;
+
+}
+
+.contenedor{
+    position: relative;
+    top:40px;
+}
+
+.paginacion{
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:30px;
+    left: 520px;
+    width:100%;
+
+    
+}
